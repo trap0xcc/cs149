@@ -11,7 +11,7 @@ youtube (2023), I have unioned them both but will default to the slides on the
 
 ## Programming Assignments
 
-- [ ] [Assignment 1: Analyzing Parallel Program Performance on a Quad-Core CPU](https://github.com/stanford-cs149/asst1)
+- [x] [Assignment 1: Analyzing Parallel Program Performance on a Quad-Core CPU](https://github.com/stanford-cs149/asst1)
 - [ ] [Assignment 2: Scheduling Task Graphs on a Multi-Core CPU](https://github.com/stanford-cs149/asst2)
 - [ ] [Assignment 3: A Circle Renderer in CUDA](https://github.com/stanford-cs149/asst3)
 - [ ] [Assignment 4: Fused Conv+MaxPool on the Trainium2 Accelerator](https://github.com/stanford-cs149/asst4-trainium2)
@@ -19,7 +19,7 @@ youtube (2023), I have unioned them both but will default to the slides on the
 
 ## Written Assignments
 
-- [ ] [Written Assignment 1](https://gfxcourses.stanford.edu/cs149/fall25content/static/pdfs/written_asst1.pdf)
+- [x] [Written Assignment 1](https://gfxcourses.stanford.edu/cs149/fall25content/static/pdfs/written_asst1.pdf)
 - [ ] [Written Assignment 2](https://gfxcourses.stanford.edu/cs149/fall25content/static/pdfs/written_asst2.pdf)
 - [ ] [Written Assignment 3](https://gfxcourses.stanford.edu/cs149/fall25content/static/pdfs/written_asst3.pdf)
 - [ ] [Written Assignment 4](https://gfxcourses.stanford.edu/cs149/fall25content/static/pdfs/written_asst4.pdf)
