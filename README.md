@@ -28,8 +28,8 @@ youtube (2023), I have unioned them both but will default to the slides on the
 
 - [x] Why Parallelism? Why Efficiency? [video](https://youtu.be/V1tINV2-9p4) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/efficiency/)
 - [x] A Modern Multi-Core Processor (Part I) [video](https://youtu.be/CKmNpAO5rS4) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/multicore1/)
-- [ ] Modern Multi-Core Architecture (Part II) + ISPC Programming Abstractions [video](https://youtu.be/F4bVSyz_jxo) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/multicore2/)
-- [ ] Parallelizing Code: An Example Thought Process [video](https://youtu.be/0-ztm8SKq70) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/thoughtprocess/)
+- [x] Modern Multi-Core Architecture (Part II) + ISPC Programming Abstractions [video](https://youtu.be/F4bVSyz_jxo) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/multicore2/)
+- [x] Parallelizing Code: An Example Thought Process [video](https://youtu.be/0-ztm8SKq70) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/thoughtprocess/)
 - [ ] Program Optimization 1: Work Distribution and Scheduling [video](https://youtu.be/mmO2Ri_dJkk) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/perfopt1/)
 - [ ] Program Optimization 2: Locality and Communication [video](https://youtu.be/Mhdny2JNhmc) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/perfopt2/)
 - [ ] GPU Architecture and CUDA Programming [video](https://youtu.be/qQTDF0CBoxE) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/gpuarch/)
