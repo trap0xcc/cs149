@@ -1,3 +1,6 @@
 [submodule "asst1"]
 	path = asst1
 	url = https://github.com/trap0xcc/asst1
+[submodule "asst2"]
+	path = asst2
+	url = https://github.com/trap0xcc/asst2
