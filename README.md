@@ -33,7 +33,7 @@ youtube (2023), I have unioned them both but will default to the slides on the
 - [x] Program Optimization 1: Work Distribution and Scheduling [video](https://youtu.be/mmO2Ri_dJkk) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/perfopt1/)
 - [x] Program Optimization 2: Locality and Communication [video](https://youtu.be/Mhdny2JNhmc) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/perfopt2/)
 - [x] GPU Architecture and CUDA Programming [video](https://youtu.be/qQTDF0CBoxE) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/gpuarch/)
-- [ ] Data-Parallel Thinking [video](https://youtu.be/Ba3TqxSgnTk) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/dataparallel/)
+- [x] Data-Parallel Thinking [video](https://youtu.be/Ba3TqxSgnTk) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/dataparallel/)
 - [ ] Distributed Data-Parallel Computing Using Spark [video](https://youtu.be/jaMWmLq422U) [slides](https://gfxcourses.stanford.edu/cs149/fall24/lecture/spark/) (NOTE: This lecture was removed from fall25 so might want to skip it)
 - [ ] Efficiently Evaluating DNNs on GPUs: Transformers and ConvNets [video](https://youtu.be/qbKtU0X6-WU) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/dnninference/)
 - [ ] Hardware Specialization [video](https://youtu.be/2tAb3EgyjNw) [slides](https://gfxcourses.stanford.edu/cs149/fall25/lecture/accelerators/)
